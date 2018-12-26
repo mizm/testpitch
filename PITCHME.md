@@ -1,3 +1,4 @@
+
 <!-- .slide: data-background-image="./assets/md/assets/pencils.jpg" data-background-size="100% 100%" data-background-position="center" data-background=" " data-background-repeat=" " data-background-transition="none" -->
 
 <span class="menu-title" style="display: none">About Templates</span>
@@ -11,9 +12,7 @@
 </div>
 
 
-
-------
-
++++
 <!-- .slide: data-background-image="./assets/md/assets/blue.jpg" data-background-size="100% 50%" data-background-position="top" data-background="white" data-background-repeat=" " data-background-transition="none" -->
 
 <span class="menu-title" style="display: none">Meet The Team</span>
@@ -62,8 +61,7 @@ Channel Marketing
 Team intro template.
 </div>
 
-------
-
++++
 <!-- .slide: data-background-image="./assets/md/assets/lovelace.jpg" data-background-size="42% 65%" data-background-position="right" data-background=" " data-background-repeat=" " data-background-transition="none" -->
 
 <span class="menu-title" style="display: none">Personal Biography</span>
