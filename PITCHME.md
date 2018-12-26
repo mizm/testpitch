@@ -1,5 +1,5 @@
 
-<!-- .slide: data-background-image="./assets/md/assets/pencils.jpg" data-background-size="100% 100%" data-background-position="center" data-background=" " data-background-repeat=" " data-background-transition="none" -->
+<!-- .slide: data-background-image="https://user-images.githubusercontent.com/29031406/50434242-1d7f5b80-0920-11e9-8687-1cd500743482.jpg" data-background-size="100% 100%" data-background-position="center" data-background=" " data-background-repeat=" " data-background-transition="none" -->
 
 <span class="menu-title" style="display: none">About Templates</span>
 
